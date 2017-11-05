@@ -6,16 +6,15 @@ aplikasi ini dibangun dengan menggunakan React Native, bisa di operasikan dengan
 #### Instalasi
 1. Download aplikasi Expo di device Android ataupun iOS
 2. Scan Barcode berikut ini melaui aplikasi Expo :
-![QR code aplikasi]("./qrcode/forusingonly.png") 
+![alt](https://github.com/devcjakarta/qrcodeExpo/blob/master/qrcode/forusingonly.png) 
 3. APlikasi Expo akan membuka project ini dan siap untuk digunakan
 
-<hr/>
+<br/>
 
 #### Changelog
 belum ada
 
-<hr/>
+<br/>
 
 #### Library yang digunakan :
 - Expo
-- React Native
