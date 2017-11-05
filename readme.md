@@ -7,9 +7,8 @@ aplikasi ini dibangun dengan menggunakan React Native, bisa di operasikan dengan
 1. Download aplikasi Expo di device Android ataupun iOS
 2. Scan Barcode berikut ini melaui aplikasi Expo :
 <br/>
-<p align="center">
-    <img url="https://github.com/devcjakarta/qrcodeExpo/blob/master/qrcode/forusingonly.png"/>
-</p>
+
+![QRCODE](https://github.com/devcjakarta/qrcodeExpo/blob/master/qrcode/forusingonly.png)
 
 3. APlikasi Expo akan membuka project ini dan siap untuk digunakan
 
